@@ -1,2 +1,3 @@
+role,NetID,FamilyName,GivenName
 boss,hliu557,Liu,Hongyi
 employee,rzhou84,Zhou,Ruyan
